@@ -1,0 +1,403 @@
+/*========MY TAGS===========*/
+
+body
+{
+    margin: 0px;
+    color: white;
+    width: 100%;
+
+}
+ul
+{
+	margin: 0;
+	list-style:none;
+	padding: 0;
+	
+}
+ul li 
+{
+	margin: 0;
+  text-decoration:none;
+  float: left;
+}
+
+
+ul li a
+{
+background-color:black;
+text-decoration:none;
+font-family: georgia; 
+color:white;
+display:inline;
+width:92px;
+margin:5px;
+padding:10px;
+border-radius:5px;
+text-align: center;
+height:auto;
+line-height:auto; 
+letter-spacing:2px;
+float: left;
+border-right-width:100px;
+}
+
+ul li a:hover
+{background-color:#D3D3D3;
+   color:red;
+}
+img
+{
+	background-color: black;
+    position: absolute;
+    top:0;
+    left: 0;
+    height: 110px;
+    width:15px;
+}
+video
+{
+     
+	height: 500px;
+	width : 800px;
+
+}
+
+
+
+
+/*===============MENU BARS==================*/
+.main
+{
+  
+  background:-webkit-linear-gradient(blue,white) ;
+  border:2px solid white ;
+  height:300px;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  font-weight: bolder;
+  font-size: 45px;
+  font-family:moonhouse;
+  color:black;
+  letter-spacing: 3px;
+  text-shadow: 5px 5px #00bfff; 
+}
+.main img
+{
+  position: absolute;
+  top:170px;
+  left: 920px;
+  height: 270px;
+  width: 420px;
+  opacity: 0.9;
+
+}
+
+.navbar
+{
+	
+	margin-top: 0px;
+	
+}
+
+
+.leftbar
+{
+	background-color:#fff5ee;
+    margin: 0%;
+    height:1025px;
+    width: 920px;
+    float: left;
+   border: 2px solid #fff5ee;
+}
+.leftbar img
+{
+   position: relative;
+   top: 10px;
+   left: 10px;
+   height: 1000px;
+   width: 900px;
+   margin: 0px;
+}
+
+
+
+
+.loginbar
+{
+	background
+	padding:10px;
+  margin:0%;
+  height:500px;
+  width: 405px;
+	  float: right;
+  border: 2px;
+}
+
+.loginbar img
+{
+  position: relative;
+  float: right;
+  height: 500px;
+  width: 300px;
+
+}
+.owner
+{  
+	
+  background:-webkit-linear-gradient(red,white) ;
+	height: 529px;
+	width:425px;
+	border:2px ;
+  float: right;
+  font-family: sans-serif;
+  color:blue;
+  font-size: 20px;
+  font-weight: bolder;
+  
+  }
+
+.owner h5
+
+{
+
+  margin-top:3px;
+  color:gray;
+  font-size: 19PX;
+  margin: 5px;
+  text-align: bootom;
+  font-family:serif;
+  }
+  .owner img
+  {
+
+     position: absolute;
+     top: 1010px;
+     left: 1038px;
+     border:2px solid gray;
+     height: 200px;
+     width: 200px;
+     border-radius: 500px;
+
+  }
+
+.downbar
+{
+    background-color:#9370db;
+    opacity: 0.7;
+    height:540px;
+    width: 1350px;
+    margin: 0px;
+    border: 2px;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 0px;
+    font-family:Showcard Gothic;
+
+}
+.downbar p
+{
+font-size: 23px;
+
+
+}
+.downbar ul li
+{
+  margin:0px;
+  position: relative;
+  left: 260px;
+  text-decoration:none;
+}
+.downbar li input 
+{ 
+	border:2px solid gray;
+	height: 20px;
+	border-radius: 10px;
+
+
+}
+
+
+
+.footer
+{
+   
+   background-color:white;
+   height: 120px;
+   margin-left:300px;
+   width: 100%;
+   padding: 0px;
+   color: black;
+   font-size: 10px;
+   font-family: georgia;
+   font-size: 15px;
+}
+.footer input
+{
+     border:2px solid gray;
+	 border-radius: 10px;
+	 height: 25px;
+}
+
+.footer button
+	{
+   background-color:skyblue;
+   position: relative;
+   color:blue;
+   border:2px solid silver; 
+   left:150px;
+   width:400px;
+   border-radius: 10px;
+}
+.footer button:hover
+{  background-color:#D3D3D3;
+ 
+  color:red;
+}
+
+
+
+
+.copyright
+{
+
+	background-color: pink;
+	width: 100%;
+	height: 40px;
+    text-align: center;
+    line-height: 40px;
+    color: white;
+    margin: 2px;
+    padding: 0px;    
+
+   }
+ ul li  button
+ {
+
+	position: absolute;
+	top:20px;
+    left: 400px;
+    width:70px; 
+    background-color:pink;
+    border-radius: 10px;
+
+}
+
+ul li button:hover
+{background-color:black;
+   color:red
+}
+
+.imagebar
+{
+	margin: 10px;
+  background-color:white;
+  height: 300px;
+  width: 1335px;
+}
+.imagebar img
+{
+  position: relative;
+  top: 1px;
+  height: 330px;
+  width: 100%;
+}
+.videobar
+{
+    margin: 0px;
+    background-image: url(abstract-1900586_960_720.jpg);
+}
+
+.logo
+{
+   margin: 0px;
+   position: absolute;
+   top: 6px;
+   left: 8px;
+   height: 88px;
+   width: 100px;
+   border: 2px;
+ 
+}
+
+	.mobile
+{
+   position: absolute;
+   height: 20px;
+   top: 8px;
+   width: 20px;
+   left: 1165px;
+}
+h6
+{
+  position:absolute;
+  top: 10px;
+  margin-top: 0px;
+  left: 1185px;
+  font-size: 15px;
+  color:black;
+  font-weight: lighter;
+  font-family: MS Sans Serif;
+
+}
+
+
+
+/*#00fa9a================HEADINGS==============*/
+
+h1{
+	background:-webkit-linear-gradient(silver,black) ;
+  opacity: 0.6%;
+  position:static;
+	width: 1335px;
+	padding: 0;
+  margin:5px;
+  height:90px;
+  text-align:center;
+  font-size: 40px;
+	letter-spacing: 35px ;
+	line-height: 80px;
+	font-family:Richardson Brand Accelerator;
+	color:silver; 
+	text-shadow:9px 9px black;
+  border: 5px;
+  border-radius: 20px;
+}
+
+
+h2
+{
+   background-color: gray;
+   color: white;
+   font-size: 20px;
+   height: 40px;
+   line-height:40px;
+   margin-left: 2px;
+   padding: 5px;
+   width:auto;
+   text-align: center;
+   font-family:serif;
+   border:2px solid black;
+   border-radius: 20px;
+   text-decoration:none;
+   display: inline;
+   letter-spacing:2px;
+	}
+
+	h2 a
+	{
+		text-decoration:none;
+		color:white;
+		list-style: none;
+	     
+	}
+
+	h2 a:hover
+{  background-color:#D3D3D3;
+   color:red;
+}
+
+button
+{
+	position: fixed;	
+}

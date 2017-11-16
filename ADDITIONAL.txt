@@ -1,0 +1,43 @@
+
+	<div style="text-align: right">
+ <input type="text" name="search" placeholder="Search..">
+ <button style="color: pink" class="ef">SEARCH </button>
+</div>
+
+
+
+
+
+
+
+<div id="slideshow">
+   <div>
+     <img src="//farm6.static.flickr.com/5224/5658667829_2bb7d42a9c_m.jpg">
+   </div>
+   <div>
+     <img src="//farm6.static.flickr.com/5230/5638093881_a791e4f819_m.jpg">
+   </div>
+   <div>
+     Pretty cool eh? This slide is proof the content can be anything.
+   </div>
+</div>
+
+
+
+
+
+<a target="_blank" title="find us on Facebook" href="http://www.facebook.com"><img alt="follow me on facebook" src="//E:\New folder (2)//fb.png" border=0 height="35px" width="35px" align="right"><div class="topcorner"></a></div>
+<a target="_blank" title="follow me on twitter" href="http://www.twitter.com"><img alt="follow me on twitter" src="//E:\New folder (2)//twit.png" border=0 height="35px" width="35px" align="right"><div class="topcorner"></a></div>
+<a target="_blank" title="subscribe me on youtube" href="http://www.youtube.com"><img alt="follow me on youtube" src="//E:\New folder (2)//you.png" border=0 height="40px" width="55px" align="right"><div class="topcorner"></a></div>
+
+
+
+
+
+.bc
+{
+	position:absolute;
+	top: 100px;
+	left: 250px;
+	height: 400px;
+	width: 400px;

@@ -1,0 +1,19 @@
+                                    css
+
+
+<style>
+s
+{
+  background-color
+}
+p{
+color:red;
+font-size:25px;
+font family:helvetica;
+
+
+}
+
+ </style>
+
+
